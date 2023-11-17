@@ -1,0 +1,32 @@
+@media screen and (max-width: 600px) {
+    #hero {
+        height: 300px;
+    }
+
+    #slogan span {
+        font-size: 32px;
+    }
+
+    #hero-text p {
+        font-size: 24px;
+    }
+
+    .marketing-black-backgroud:haver .product,
+    .marketing-white-background:haver .product {
+        animation: flip 3s infinite;
+    }
+
+    .white-title, .blac-title {
+        font-size: 36px;
+        text-align: center;
+    }
+
+    .white-description, black-description{
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .product {
+        animation: none;
+    }
+}
